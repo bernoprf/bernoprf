@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bernoprf
-- 👀 I have experience in data science, including ETL processes, data analysis and visualization tools.
-- 🌱 I’m currently learning cloud computing, visualization tools, and SQL/NoSQL. I am also interested in mastering my coding skills in Python.
-- 💞️ I’m looking to collaborate on projects related to data science.
+- 👀 I have experience in data science, including ETL processes, data analysis, and visualization of results.
+- 🌱 I've enrolled courses of Big Data and Machine Learning with Python. I’m currently learning cloud computing, visualization tools, and SQL/NoSQL.
+- 💞️ I’m looking to collaborate on projects related to Data Science and Machine Learning.
 - 📫 You can reach me by email (bernoprf@gmail.com) and [LinkedIn](https://www.linkedin.com/in/bernatadria/)
 
 <!---
